@@ -1,0 +1,102 @@
+[
+  {
+    "text": "Wanna go out on a date? Sorry, I know it is kind of last minute.",
+    "response": "You love to give me lots of notice! ;) I'm actually busy tonight, but I'd love to see you. Gimme some notice next time and I'll see if I can make it work!",
+    "outcome": "Like a true diva"
+  },
+  {
+    "text": "Sorry, I forgot to text. I was busy.",
+    "response": "Oh wow! You have time? Lol. Well I'll see if I can squeeze you in... ;)",
+    "outcome": "Like a true diva"
+  },
+  {
+    "text": "Are you alone right now? Can I come over?",
+    "response": "As much as I'd love to spend time with you (and I really do lol) I'm just not the type of girl who hangs out with a guy so late unless I'm actually dating them.",
+    "outcome": "Like a true diva"
+  },
+  {
+    "text": "I have work to do. Won't be able to talk to you.",
+    "response": "I'm at that awesome Mexican restaurant you told me about in (city/area)! You should totally be here right now.",
+    "outcome": "Like a true diva"
+  },
+  {
+    "text": "I'm out with somebody right now. Talk to you later.",
+    "response": "Are you seeing anyone else right now, or even thinking about it? It's totally fine if you are, but it just lets me know where your head is.",
+    "outcome": "Like a true diva"
+  },
+  {
+    "text": "I don't want to talk about it",
+    "response": "I'm always on your side, handsome. Tell me what's bothering you. We're a team. If I don't know, I can't help you fix it.",
+    "outcome": "Like a true diva"
+  },
+  {
+    "text": "I need some space. It's all moving too fast.",
+    "response": "Of course, I completely understand. I'll miss you tons, but I'm glad you're getting some time with the guys. Have fun!",
+    "outcome": "Like a true diva"
+  },
+  {
+    "text": "Sorry, I forgot to call. Will text you in the afternoon.",
+    "response": "I've been thinking about you today! I'm busy this afternoon, but gimme a call later tonight and we'll catch up.",
+    "outcome": "Like a true diva"
+  },
+  {
+    "text": "Hey, what's up?",
+    "response": "I just can't get you off my mind and it's starting to annoy me a bit ;)",
+    "outcome": "Like a true diva"
+  },
+  {
+    "text": "I swear this was the last time. I won't do it again.",
+    "response": "You are always so kind and respectful to me. But I just feel like what you're doing isn't kind or respectful and I know that's not in your character.",
+    "outcome": "Like a true diva"
+  },
+    {
+    "text": "Wanna go out on a date? Sorry, I know it is kind of last minute.",
+    "response": "Sure, any time you want. I'm free all week",
+    "outcome": "He won't text you back"
+  },
+  {
+    "text": "Sorry, I forgot to text. I was busy.",
+    "response": "You're always busy :( You just want to avoid me",
+    "outcome": "He won't text you back"
+  },
+  {
+    "text": "Are you alone right now? Can I come over?",
+    "response": "Um, okay sure :) I'll be waiting all night",
+    "outcome": "He won't text you back"
+  },
+  {
+    "text": "I have work to do. Won't be able to talk to you.",
+    "response": "You always have work. Fine, talk to you later.",
+    "outcome": "He won't text you back"
+  },
+  {
+    "text": "I'm out with somebody right now. Talk to you later.",
+    "response": "Who's with you? Are you on a date? You can't go out with anyone but me. I thought we were exclusive.",
+    "outcome": "He won't text you back"
+  },
+  {
+    "text": "I don't want to talk about it",
+    "response": "Why not? Just tell me what's wrong. I want to know. Why don't you ever tell me anything? :(",
+    "outcome": "He won't text you back"
+  },
+  {
+    "text": "I need some space. It's all moving too fast.",
+    "response": "Why? I don't get it. Are you going to be spending time with the guys again :( Fine, do whatever you want. I won't miss you.",
+    "outcome": "He won't text you back"
+  },
+  {
+    "text": "Sorry, I forgot to call. Will text you in the afternoon.",
+    "response": "I wasn't thinking about you. I knew you'll forget to call me, as usual. Don't call me tonight. I won't pick up.",
+    "outcome": "He won't text you back"
+  },
+  {
+    "text": "Hey, what's up?",
+    "response": "I'm alone at home right now. I'm in bed naked. ;)",
+    "outcome": "He won't text you back"
+  },
+  {
+    "text": "I swear this was the last time. I won't do it again.",
+    "response": "I can't believe I'm with someone of your character. Promise me, you won't do it again.",
+    "outcome": "He won't text you back"
+  }
+]
