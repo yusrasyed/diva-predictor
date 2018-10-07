@@ -29,7 +29,7 @@ const trainingData = data.map(item => ({
 }));
 
 network.train(trainingData, {
-    iterations: 40
+    iterations: 20000
 });
 // const output = network.run([
 //   "I won't do it again. Can I come over and talk?",
